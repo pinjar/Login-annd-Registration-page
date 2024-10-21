@@ -1,0 +1,2 @@
+<h1>Login and Registration Page</h1>
+Developed a responsive login and registration page using HTML, CSS, JavaScript, and Bootstrap. The project provides a simple, clean, and functional interface for user authentication, including form validation for secure data entry. Hosted on Netlify, the page is designed to be fully responsive, ensuring compatibility across various devices and screen sizes, showcasing proficiency in front-end development and user interface design.
